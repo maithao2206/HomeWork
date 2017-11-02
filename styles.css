@@ -4,5 +4,6 @@
     left: 100px;
     right: 200px;
     bottom: 2px;
-    
+    display: flex;
+    justify-content: columns;
 }
