@@ -1,3 +1,8 @@
 .header {
+    position: relative;
     background: #ccc;
+    left: 100px;
+    right: 200px;
+    bottom: 2px;
+    
 }
